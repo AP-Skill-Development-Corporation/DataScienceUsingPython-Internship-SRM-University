@@ -1,0 +1,1 @@
+New content is added to my file by overwritting the old content
